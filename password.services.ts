@@ -3,7 +3,7 @@
  * 
  * 2018 - Emanuele Paiano
  * 
- * 
+ * This source is released under MIT license
  */
 
 import { Injectable } from '@angular/core';
